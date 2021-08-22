@@ -1,0 +1,71 @@
+body {background-color: #F0F0F0;margin: 0px;padding: 0px;}
+td   {font-family: Verdana, Helvetica, sans-serif; font-size:xx-small;}
+h1   {font-family: Georgia, "Times New Roman", Times, serif;color:#a0a0a0;text-align:center;font-weight: normal;font-size: 24px;}
+h2   {font-family: Arial, Helvetica, sans-serif;color:#666666;font-weight: normal;text-align:center;font-size: 14px;}
+h3   {font-family: Verdana, Arial, Helvetica, sans-serif;color: #000000;margin: 0;font-size: 12px;color: #888480;padding: 5 0 0 0;font-weight: bold;}
+h5   {font-family: Verdana, Arial, Helvetica, sans-serif;color: #000000; margin: 0;background-color: #999999;font-size: 12px;color: #FFFFFF;padding: 5;font-weight: bold;}
+h6   {font-family: Arial, Helvetica, sans-serif; font-size: 12px}
+a    {color: #FF6600;}
+a:hover{color: #800000;}
+button {border:none; background-color:transparent;padding:0;margin:0;}
+.button{font-family: Verdana, Arial, Helvetica, sans-serif;color: #000000; font-size:10px; }
+th    {font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;background-color:#9885A5;font-weight: bold;color: #FFFFFF;text-align: center;}
+hr    {color:#e8e0e8;}
+textarea{font-family: Tahoma, Arial;}
+
+a.p  {color: #000000;font-weight: bold;font-size:10px;text-decoration: none;}
+a.p:hover {color: #F57E07; text-decoration:none;}
+.nop {color: #BE98C5; font-weight: bold; font-family:Verdana, Arial; font-size:10px; text-decoration: none;}
+
+.block_head{font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #000000; background-color: #FAD0AA}
+.inputtiny {font-family: Verdana, Arial, Helvetica, sans-serif;background-color:#fff8ff;font-size:10px;}
+.inputarea {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#fff8ff;
+	font-size:10px;
+	background-image: url(inputarea.gif);
+	background-attachment: fixed;
+}
+.select  {font-family: Verdana, Arial, Helvetica, sans-serif;background-color:#e0e0e0;font-size:10px;}
+.butleft {background-image: url(button_bgleft.gif);background-repeat: no-repeat;font-family:verdana;font-weight:bold;cursor:hand;}
+.notice  {font-family: Verdana, Arial, Helvetica, sans-serif; font-size:xx-small; color:#808080;}
+.warning {color: #FF0000;}
+.tab     {font-family:verdana; font-size:xx-small; background-color:#FFFFFF;}
+
+.tabhead {font-family:verdana;font-size:10px;background-color:#999999;font-weight: bold;color: #FFFFFF;text-align: center;}
+.dialog{font-family:Verdana, Arial, Helvetica, sans-serif;font-size:10px; text-align:center;}
+.small   {font-family:Verdana, Arial, Helvetica, sans-serif;font-size:11px;}
+td.ce    {background-color: #f0f0f0;}
+td.co    {background-color: #f8f8f8;}
+
+/* lighter or darker backgrounds: lightest looks nearest to user */
+.bgtop   {background-color: #ffffff;}
+.bgup    {background-color: #f8f8f8;}
+.bgdown  {background-color: #e8e8e8;}
+.bgupup  {background-color: #999999;}
+.bgdowndown {background-color: #e0e0e0;}
+.topmenu_bg {background-color: #e0e0e0; background-image: url(topmenu_bg.jpg)}
+
+.imgindex {background-color: #e8e8e8;border:1 outset;}
+.tiny        {font-size:9px; font-family:Arial,Helvetica, sans-serif;}
+
+.lmenu_panel {background-color: #e8e8e8; width:150;}
+.lmenu_catbody {background-color: #ffffff; border:#c0c0c0;}
+.lmenu_cathead {background-color: #f0f0f0; font-weight:bold; color:#808080;}
+a.lmenu_itemhref {font-weight:bold; color:#a09080; text-decoration: none;}
+a.lmenu_itemhref:hover {color:#ff6633}
+a.lmenu_itemhrefa {font-weight:bold; color:#ff6600; text-decoration: none; }
+
+.jsb_proppanel {background-color:#f8f8f8;}
+.pop_head {background-color: #888088;  color:#ffffff;}
+.pop_frame{background-color: #808080;}
+.pop_cell {background-color: #f0f0f0;}
+
+.jsb_tinybutton {font-family: Verdana; font-size:10px; font-weight:bold; color: white; background-color:#808080;}
+.jsbh {font-family:Verdana; font-size:10px; color:#F07F0A; font-weight:bold;}
+.jsb_tinyinput {font-family:Arial; font-size:11px; color:#400000;}
+.jsbh:hover {text-decoration:none;}
+.jsb_tiny {font-family: verdana; font-size:10px;}
+.jsb_menuh {font-family: verdana; font-size:10px; text-decoration: none; color:#000000;}
+.jsb_menuh:hover {font-family: verdana; font-size:10px; text-decoration: underline; color:#101010;}
+.jsb_tab{font-family: verdana; font-size: 9px;}

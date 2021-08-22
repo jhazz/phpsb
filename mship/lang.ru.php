@@ -1,0 +1,65 @@
+<?
+$GLOBALS['_STRINGS']['mship']=array(
+MSHIP_TITLE=>"Персоналии сайта",
+TITLE_MYOFFICE=>"Мой офис",
+TITLE_MEMBERS_CATALOGUE=>"Каталог персоналий",
+ROLE_MODERATOR=>"Модератор персоналий",
+
+IMEMBERS_UPDATE=>"Обновить список",
+IMEMBERS_HIDE=>"Спрятать выбранные",
+IMEMBERS_SHOW=>"Показать выбранные",
+IMEMBERS_MOVETO=>"Переместить в раздел ",
+IMEMBERS_NEWANDHIDDEN=>"Новые и, непоказанные еще, персоналии",
+
+MEMBERS=>"Персоналии",
+MEMBER_CATALOGSECTION=>"Группа участника",
+MEMBER_CATALOGSECTIONS=>"Группы участников",
+MEMBER_CATALOGSECTIONVISIBILITY=>"Эта группа видна на сайте",
+MEMBER_SELECT_YOUR_SECTION=>"Выберите группу в списке",
+MEMBER_PREFERRED_SECTION=>"Предпочтительное наименование группы, если таковая отсутствует в списке",
+MEMBER_NAME=>"Имя визитки",
+MEMBER_SUBTITLE=>"Дополнительная подпись",
+MEMBER_STREETADDRESS=>"Описание",
+MEMBER_PHONE=>"Телефон",
+MEMBER_EMAIL=>"Email",
+MEMBER_WEBSITE=>"Вебсайт",
+MEMBER_CONTACTPERSON=>"Имя персоны для контактов",
+MEMBER_SHOW=>"Показать участника",
+MEMBER_OWNERUSERID=>"Логин",
+MEMBER_REMOVED=>"Удален пользователем",
+
+TMYOFFICE_CAPTION=>'Мой офис',
+TMYOFFICE_DESCRIPTION=>'Пользовательские фотоальбомы, описания и контакты',
+TMEMBERSLIST_CAPTION=>'Печатает список персоналий',
+TMEMBERSLIST_DESCRIPTION=>'Prints only registered and approved to show members. Also it shows profiles that watching user have made.',
+TMEMBER_CAPTION=>'Publish member details ',
+TMEMBER_DESCRIPTION=>'Публикует информацию о персоне на основании номера страницы',
+
+CREATE_TEXT_ABOUT=>"Создать текстовое описание персоны",
+EDIT_TEXT_ABOUT=>"Редактирование текстового описания",
+CREATE_PHOTOALBUM=>"Создать фотоальбом",
+EDIT_PHOTOALBUM=>"Открыть фотоальбом",
+CREATE_MYPROFILE=>"Создать свою визитку",
+VIEW_DETAILS=>"Посмотреть визитку",
+ADD_PROFILE=>"Добавить визитку",
+EDIT_PROFILE=>"Редактировать визитку",
+REMOVE_THIS_PROFILE=>"Удалить эту визитку",
+PROFILE_IS_PUBLISHED=>"Эта визитка опубликована на сайте",
+
+INPUT_NEW_CATEGORY=>"Если ваш профиль отсутствует в списке - введите свой",
+WARNING_NOTSELECTEDCATEGORY=>"Вы не выбрали категорию",
+WARNING_NOPROFILENAME=>"Вы не ввели имя визитки",
+WARNING_REGISTER_FIRST=>"Чтобы создать визитку Вам надо зарегистрироваться или войти под своим логином",
+PROFILE_UNDER_REVIEW=>"Эта визитка находится на рассмотрении",
+PROFILE_UNDER_REVIEW_HINT=>"После того, как Вы отправите свои данные администрация сайта рассмотрит их и опубликует.",
+
+MEMBERS_CATALOG_CONTEXT=>"Контекст отображения каталога персоналий",
+MEMBER_CONTEXT=>"Контекст отображения одной персональной карточки",
+HINT_REGISTERING_MEMBER=>"Все новые участники являются спрятанными до тех пор пока администратор не установит его видимость",
+
+MEMBERSTATE_HIDDEN=>"Участник невидим на сайте",
+MEMBERSTATE_VISIBLE=>'Участник опубликован на сайте',
+MEMBERSTATE_SELF_DELETED=>'Участник удалил себя',
+
+);
+?>

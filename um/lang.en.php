@@ -1,0 +1,125 @@
+<?
+$GLOBALS['_STRINGS']['um']=array(
+TITLE_USER_MANAGEMENT_SYSTEM=>"User management",
+TITLE_CHANGE_PASSWORD=>"Changing password for '%s'",
+
+ROLE_USERGROUPMANAGER=>"User groups management",
+ROLE_USERMANAGER=>"Users editing",
+
+
+MSG_INVALID_TARGET_USER, "User with  %s identifier is not found",
+MSG_ADMIN_PASS_PROTECTED=>"'Admin' user password cannot be changed!",
+MSG_BAD_PASS_RETYPE=>"Password retyping incorrect",
+MSG_PASSWORD_EMPTY=>"Password not entered",
+MSG_SHOW_REMOVED=>"Show removed",
+MSG_USER_ALREADY_EXISTS=>"User with the same account exists in the system. Try a different login name for registration.",
+
+MSG_THESE_ARE_USERS=>"Registered site users",
+
+
+LOGOUT=>"Log Out",
+
+CAPTION_REGENERATE_ACCESS=>"Regenerate user access tables",
+CAPTION_ALLOW=>"Allow",
+CAPTION_DENY=>"Deny",
+CAPTION_ERROR=>"Error:",
+CAPTION_ENTER_NEW_PASSWORD=>"Enter new passsword:",
+CAPTION_RETYPE_PASSWORD=>"Retype the new password:",
+CAPTION_CHANGE_PASS=>"Change password",
+CAPTION_REMARKS=>"Remarks",
+CAPTION_PASSWORD=>"Password",
+CAPTION_LOGIN=>"Login",
+CAPTION_EMAIL=>"Email",
+CAPTION_GROUPS=>"Groups",
+CAPTION_SHOWUSERINGROUPS=>"Check groups for selcetion and click 'show'",
+CAPTION_REMOVE_SELECTED=>"Remove selected",
+CAPTION_MANAGEUSERS=>"User management",
+CAPTION_INCLUDE_TOGROUP=>"----Include into group----",
+CAPTION_EXCLUDE_FROMGROUP=>"----Remove from group----",
+CAPTION_GROUPSIN=>"Member of groups",
+CAPTION_PURGE_OK=>"Users were successfully deleted from the system",
+MSG_NOTHING_TO_PURGE=>"No users selected for deletion",
+
+CAPTION_SHOWREMOVED=>"Show deleted users",
+CAPTION_HIDEREMOVED=>"Do not show deleted",
+CAPTION_PURGEREMOVED=>"Purge selected for removal",
+CAPTION_ADDGROUP=>"Add group",
+CAPTION_ADDUSER=>"Add new user",
+MSG_NEWGROUPNAME=>"Enter the name for the new user group",
+CAPTION_RENAME=>"Rename",
+CAPTION_APPLYROLES=>"Assign roles",
+TITLE_RENAMEGROUP=>"Rename group",
+TITLE_ROLES_OF_GROUP_=>"Roles assigned to the group ",
+TEXT_ABOUT_ROLE_APPLYING=>"User group can be assigned the roles, that are assigned to the group members, or the roles that are blocked for them.
+  If a user has been already assigned a role of one of the groups, It is enough to include the user to one of the groups where this tole is blocked to remove this role from the user..",
+
+IUSERS_RESTORE_REMOVED_USER=>"Restore the removed user",
+TEXT_THESE_ARE_USERMETHODACCESS=>"Interface methods available for the user",
+TEXT_THESE_ARE_USERROLES=>"Roles assigned to the user",
+TEXT_NO_ROLES_APPLYIED_TO_USER=>"No roles assigned to the user",
+
+UPDATE_ACCESS_WARNING=>"The update is required if there are program changes in the structure of the components installed.
+
+ To protect the installed or modified interfaces, update is required.
+
+ Do yo agree to run the full system update?",
+TLOGINPANEL_ABOUT=>"Panle for logging in of any type user",
+TLOGINPANEL_CAP_LOGIN=>"Login",
+TLOGINPANEL_CAP_PASSWORD=>"Password",
+TLOGINPANEL_CAP_PASSWORD_OLD=>"Your current password",
+TLOGINPANEL_CAP_ENTER=>"Enter",
+TLOGINPANEL_FORGETPASSWORD=>"Enter your login and click OK. After this, your password will be sent to your mailbox.",
+TLOGINPANEL_CAP_HideAfterLogin=>"Hide successfull login panel",
+TLOGINPANEL_ERR_BADLOGIN=>"The password or login entered are invalid",
+TLOGINPANEL_CAP_BADLOGIN=>"Message text to display at login failure",
+TLOGINPANEL_CAP_URL_SUCCESS=>"The page to direct user after successful login",
+TLOGINPANEL_CAP_URL_ERROR=>"The page displaying the full text of login failure",
+TLOGINPANEL_CAP_URL_REGISTER=>"Registration page",
+TLOGINPANEL_URL_HAVELOGGEDOUT=>"The page displaying after logout ",
+TLOGINPANEL_CAP_REGISTER=>"Registration",
+TLOGINPANEL_CAP_FORGET=>"Forgot your password?",
+TLOGINPANEL_KEEP_SESSION_LOCKED=>"Remember password",
+TLOGINPANEL_URL_REMINDER_SENT=>"Page with 'password reminder sent' to direct the user after sending the password reminder",
+TLOGINPANEL_TEXT_ENTERMYOFFICE=>"Enter to my office",
+TLOGINPANEL_SHOWSECURITY=>"Show security details",
+
+TREGCARD_ABOUT=>"New user registration card or user data self editing",
+TREGCARD_P_USERTYPE=>"The type of user being registered",
+TREGCARD_CAP_PASSWORD2=>"Retype the password",
+TREGCARD_URL_SUCCESS=>"Susscessful registration confirmation page",
+
+TREGCARD_CAP_EMAIL=>"Your E-mail",
+TREGCARD_CAP_PLACE=>"Ypur city/country",
+TREGCARD_CAP_GENDER=>"Your gender",
+TREGCARD_CAP_WEBSITE=>"Your website",
+GENDER_FEMALE=>"female",
+GENDER_MALE=>"male",
+
+ERR_LOGINDEFINED=>"User with the same login exists in the system",
+ERR_EMPTYPASSWORD=>"Password cannot be blank",
+ERR_PASSWORDMISS=>"You misretyped your password",
+ERR_BADOLDPASSWORD=>"Wrong current password",
+ERR_NOEMAIL=>"Indicate your email",
+MSG_USER_UPDATED=>"Your data is updated",
+MSG_USER_REGISTERED=>"You are registered on the website",
+ERR_NOUSERADDING=>"Unable to add a new user to the system",
+
+TLOGINPANEL_CAPTION=>'Login form',
+TLOGINPANEL_DESCRIPTION=>'If user logged in this panel is hide',
+TREGISTRATIONCARD_CAPTION=>'Registration form',
+TREGISTRATIONCARD_DESCRIPTION=>'Regitration form for new or already registered user',
+TUSERINFO_CAPTION=>'Info about an user',
+TUSERINFO_DESCRIPTION=>'Publish registration information about user',
+LOGGEDIN_USER_PAGE=>'Page to show to the user after login',
+NEW_USER_ACTIVATES_VIA_EMAIL=>'New user should activate himself via email message',
+DISABLE_REGISTRATION=>"Disable user registration",
+CAPTION_ACTIVATED=>"Activated",
+CAPTION_ACTIVATE=>"Activate",
+
+REGISTRATION_ACTIVATED=>"Your account has been activated",
+LOGIN_FORM_PAGE=>"Website login form page",
+REGISTRATOR_EMAIL=>"Registrator e-mail address that uses for sending message to a new user",
+MSG_ACTIVATION_KEY_SENT=>"Activation key has been sent to your e-mail address. Please wait for the message and then activate your acoount follow instructions in that message.",
+TREGCARD_URL_AFTERACTIVATION=>"The page to go to after successful user activation",
+);
+?>

@@ -1,0 +1,77 @@
+body {background-color: #f2f8f8;margin: 0px;padding: 0px;}
+td   {font-family: Verdana, Helvetica, sans-serif; font-size:11px;}
+h1   {font-family: Arial, Helvetica, sans-serif;color:#1ba0ac;text-align:center;font-weight: normal;font-size: 24px;}
+h2   {font-family: Arial, Helvetica, sans-serif;color:#666666;font-weight: normal;text-align:center;font-size: 14px;}
+h3   {font-family: Verdana, Arial, Helvetica, sans-serif;color: #000000;margin: 0;font-size: 12px;color: #888480;padding: 5 0 0 0;font-weight: bold;}
+h5   {font-family: Verdana, Arial, Helvetica, sans-serif;color: #000000; margin: 0;background-color: #999999;font-size: 12px;color: #FFFFFF;padding: 5;font-weight: bold;}
+h6   {font-family: Arial, Helvetica, sans-serif; font-size: 12px}
+a    {color: #FF4300;}
+a:hover{color: #800000;}
+button {overflow:visible;border:none; background-color:transparent;padding:0;margin:0;}
+.button{font-family: Verdana, Arial, Helvetica, sans-serif;color: #000000; font-size:10px; background-color: #FF9040;  }
+th    {font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;background-color:#75c0c8;font-weight: bold;color: #FFFFFF;text-align: center;}
+hr    {color:#e8e0e8;}
+textarea{font-family: Tahoma, Arial;}
+
+a.p  {color: #606000;font-weight: bold;font-size:10px;text-decoration: none;}
+a.p:hover {color: #F57E07; text-decoration:none;}
+.nop {color: #BE98C5; font-weight: bold; font-family:Verdana, Arial; font-size:10px; text-decoration: none;}
+
+.block_head{font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #000000; background-color: #FAD0AA}
+.inputtiny {font-family: Verdana, Arial, Helvetica, sans-serif;background-color:#fff8ff;font-size:10px;}
+.inputarea {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:f9ffff;
+	font-size:10px;
+	background-image: url(inputarea.gif);
+	background-attachment: fixed;
+	background-repeat: repeat-x;
+}
+.select  {font-family: Verdana, Arial, Helvetica, sans-serif;background-color:#e0e0e0;font-size:10px;}
+.butleft {background-image: url(button_bgleft.gif);background-repeat: no-repeat;font-family:verdana;font-weight:bold;cursor:hand;}
+.notice  {font-family: Verdana, Arial, Helvetica, sans-serif; font-size:10px; color:#808080;}
+.warning {color: #FF0000;}
+.tab     {font-family:verdana; font-size:xx-small; background-color:#FFFFFF;}
+
+.tabhead {font-family:verdana;font-size:10px;background-color:#999999;font-weight: bold;color: #FFFFFF;text-align: center;}
+.dialog{font-family:Verdana, Arial, Helvetica, sans-serif;font-size:10px; text-align:center;}
+.small   {font-family:Verdana, Arial, Helvetica, sans-serif;font-size:11px;}
+td.ce    {background-color: #f5ffff;}
+td.co    {background-color: #eefeff;}
+td.ce-nowrap { background-color: #FFFFF8; font-size:10px; padding: 4px; white-space: nowrap;}
+td.co-nowrap { background-color: #FFFFF0; font-size:10px; padding: 4px; white-space: nowrap;}
+td.cle {background-color: #E5F8F8;}
+td.clo {background-color: #EcFbFF;}
+
+/* lighter or darker backgrounds: lightest looks nearest to user */
+.bgtop   {background-color: #ffffff;}
+.bgup    {background-color: #e8f8f8;}
+.bgdown  {background-color: #b7e6eb;}
+.bgupup  {background-color: #ffffff;}
+.bgdowndown {background-color: #d3ebed;}
+.topmenu_bg {background-color: #d3ebed; background-image: url(topmenu_bg.jpg)}
+
+.imgindex {background-color: #e8e8e8;border:1 outset;}
+.tiny        {font-size:9px; font-family:Arial,Helvetica, sans-serif;}
+
+.lmenu_panel {background-color: #dbe8f1; width:150;}
+.lmenu_catbody {background-color: #ffffff; border:#c0c0c0;}
+.lmenu_cathead {background-color: #d7f0fc; font-weight:bold; color:#2376a1;}
+a.lmenu_itemhref {font-weight:bold; color:#4d99c1; text-decoration: none;}
+a.lmenu_itemhref:hover {color:#ff6633}
+a.lmenu_itemhrefa {font-weight:bold; color:#fe9a77; text-decoration: none; }
+
+.pop_head{background-color: #808080;  color:#ffffff;}
+.pop_frame{background-color: #d0d8d8;padding:0;border:2px outset;}
+.pop_cell{color:#000000;}
+
+.jsb_proppanel{background-color: #ffffff;  color:#202020;}
+
+.jsb_tinybutton {font-family: Verdana; font-size:10px; font-weight:bold; color: white; background-color:#808080;}
+.jsbh {font-family:Verdana; font-size:10px; color:#F07F0A; font-weight:bold;}
+.jsb_tinyinput {font-family:Arial; font-size:11px; color:#400000;}
+.jsbh:hover {text-decoration:none;}
+.jsb_tiny {font-family: verdana; font-size:10px;}
+.jsb_menuh {font-family: verdana; font-size:10px; text-decoration: none; color:#000000;}
+.jsb_menuh:hover {font-family: verdana; font-size:10px; text-decoration: underline; color:#101010;}
+.jsb_tab{font-family: verdana; font-size: 9px;}

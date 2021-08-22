@@ -1,0 +1,14 @@
+﻿<flash_project name="phpsb_doc" version="1">
+    <project_folder name="Class" expanded="true">
+        <project_file path="./phpsbFlash/Scroller.as" filetype="as" />
+        <project_file path="./phpsbFlash/Control.as" filetype="as" />
+        <project_file path="./phpsbFlash/Dispatcher.as" filetype="as" />
+        <project_file path="./phpsbFlash/Button.as" filetype="as" />
+        <project_file path="./phpsbFlash/Separator.as" filetype="as" />
+        <project_file path="./phpsbFlash/SideSizer.as" filetype="as" />
+        <project_file path="./phpsbFlash/utils.as" filetype="as" />
+        <project_file path="./phpsbFlash/DockablePanel.as" filetype="as" />
+        <project_file path="./phpsbFlash/View.as" filetype="as" />
+    </project_folder>
+    <project_file path="./doc_diagrams_edit.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>
